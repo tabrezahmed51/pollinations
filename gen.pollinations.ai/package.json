@@ -23,15 +23,15 @@
         "@cloudflare/vite-plugin": "^1.33.2",
         "@cloudflare/vitest-pool-workers": "^0.12.21",
         "@cloudflare/workers-types": "^4.20251202.0",
-        "@hono/node-server": "^1.19.14",
+        "@hono/node-server": "^2.1.6",
         "@scalar/openapi-to-markdown": "0.3.23",
         "@types/debug": "^4.1.13",
         "@types/node": "24.10.1",
-        "esbuild": "0.25.12",
+        "esbuild": "0.28.1",
         "openai": "6.34.0",
         "tsx": "4.20.6",
         "typescript": "^5.9.3",
-        "vite": "^7.2.4",
+        "vite": "^7.3.7",
         "vite-tsconfig-paths": "^5.1.4",
         "vitest": "3.2.4",
         "wrangler": "^4.52.1"
@@ -51,13 +51,13 @@
         "drizzle-orm": "0.45.2",
         "eventsource-parser": "3.0.6",
         "fast-json-stable-stringify": "^2.1.0",
-        "hono": "4.10.6",
+        "hono": "4.13.19",
         "hono-openapi": "1.2.0",
         "jose": "^6.2.3",
         "music-metadata": "^11.16.1",
         "piexif-ts": "^2.1.0",
         "yaml": "^2.9.0",
         "ai": "^7.0.66",
-        "zod": "4.5.4"
+        "zod": "4.6.6"
     }
 }

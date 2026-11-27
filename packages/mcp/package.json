@@ -8,8 +8,8 @@
         "test": "node --test test/*.test.js"
     },
     "dependencies": {
-        "@modelcontextprotocol/server": "^2.0.0",
-        "zod": "^4.2.0"
+        "@modelcontextprotocol/server": "^2.3.0",
+        "zod": "^4.6.7"
     },
     "engines": {
         "node": ">=20.0.0"
