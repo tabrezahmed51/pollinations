@@ -33,7 +33,7 @@
         "typescript": "^5.9.3",
         "vite": "^7.3.7",
         "vite-tsconfig-paths": "^5.1.4",
-        "vitest": "3.2.4",
+        "vitest": "4.1.11",
         "wrangler": "^4.52.1"
     },
     "dependencies": {
@@ -46,7 +46,7 @@
         "@scalar/hono-api-reference": "0.9.32",
         "@smithy/fetch-http-handler": "^5.3.17",
         "@streamparser/json": "0.0.26",
-        "better-auth": "1.6.30",
+        "better-auth": "1.7.7",
         "debug": "^4.4.3",
         "drizzle-orm": "0.45.2",
         "eventsource-parser": "3.0.6",
