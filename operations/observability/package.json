@@ -19,16 +19,16 @@
     "@cloudflare/containers": "^0.3.7",
     "@pollinations/auth": "file:../../packages/auth",
     "@pollinations/ui": "file:../../packages/ui",
-    "hono": "^4.10.6",
+    "hono": "^4.13.16",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
   "devDependencies": {
-    "wrangler": "^4.110.0",
-    "@cloudflare/vite-plugin": "^1.15.2",
+    "wrangler": "^4.169.0",
+    "@cloudflare/vite-plugin": "^1.70.2",
     "@vitejs/plugin-react": "^5.1.1",
     "@tailwindcss/vite": "^4.0.0",
-    "vite": "^7.0.0",
+    "vite": "^7.3.8",
     "typescript": "^5.7.2",
     "@types/react": "^19.2.7",
     "@types/react-dom": "^19.2.3"
